@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Easy;
 
 public class Rotate_Array {
     // leetcode 189

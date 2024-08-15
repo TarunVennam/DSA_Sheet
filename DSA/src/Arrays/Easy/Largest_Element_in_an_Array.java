@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Easy;
 
 public class Largest_Element_in_an_Array {
     //https://bit.ly/3Pld280

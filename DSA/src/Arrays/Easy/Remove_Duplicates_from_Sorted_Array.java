@@ -1,11 +1,13 @@
-package Arrays;
+package Arrays.Easy;
 
 public class Remove_Duplicates_from_Sorted_Array {
     // leetcode 26
     public static void main(String[] args) {
+        int[] arr = {1,1,2};
+        System.out.println(removeDuplicates(arr));
 
     }
-    public int removeDuplicates(int[] nums) {
+    static int removeDuplicates(int[] nums) {
         // int count =0;
         // int n = nums.length;
         // for(int i =0;i<n;i++){
