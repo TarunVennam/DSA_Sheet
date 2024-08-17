@@ -26,6 +26,7 @@ public class Find_the_number_that_appears_once_and_other_numbers_twice {
         return 0;
     }
     static int singleNumberUsingBitwiseLeetcode(int[] nums) {
+        // Using Bitwise Operater
         int result = 0;
         for (int num : nums) {
             result ^= num;  // Bitwise XOR operation
